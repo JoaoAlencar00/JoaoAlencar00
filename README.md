@@ -1,20 +1,27 @@
-# João Alencar
-### Developer Front-end
+# 👋 Hello! Welcome to my Github profile.
+## My name is João Alencar and my nickname is JoaoAlencar00!
 
+- 🔭 I'm currently studying systems analysis and development at university.
+- 🌱 I’m currently learning programming at Alura and studying English.
+- 👯 I’m looking to collaborate on mobile and game projects.
+- 🤔 I’m looking for help with my first job as a programmer.
+- 📫 How to reach me: joaopalencar2000@gmail.com
+- ⚡ Fun fact: I'm looking for my first job as a programmer, I have intermediate English from Fisk and I'm studying Alura. I'm 18 years old and I live in Guarulhos-SP
 
+## I am learning:
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+  
+## Contacts:  
+<div>
+<a href="https://instagram.com/jpx_kzn" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/JPXK_ZN13" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href = "mailto:Joaopalencar2000@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joão-alencar-453362232/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
- <a align="left" href="joaopalencar2000@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/jpxk_zn" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/joão-alencar-453362232" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
-
-⚐ Sao Paulo, Brazil
-
-ϟ Currently developing websites
-
-
- ## Skills
-   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> </a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a> </a> <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vite.svg" alt="Vite" width="25" height="25" /></a> 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoAlencar00/JoaoAlencar00/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoAlencar00/JoaoAlencar00/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JoaoAlencar00/JoaoAlencar00/output/github-snake.svg" />
-</picture>
+## Github Stats          
+<div>
+<a href="https://github.com/JoaoAlencar00">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlencar00&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAlencar00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>

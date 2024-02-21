@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on mobile and game projects.
 - 🤔 I’m looking for help with my first job as a programmer.
 - 📫 How to reach me: joaopalencar2000@gmail.com
-- ⚡ Fun fact: I'm looking for my first job as a programmer, I have intermediate English from Fisk and I'm studying Alura. I'm 18 years old and I live in Guarulhos-SP
+- ⚡ Fun fact: I'm looking for my first job as a programmer, I have intermediate English from Fisk and I'm studying Alura. I'm 19 years old and I live in Guarulhos-SP
 
 ## I am learning:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 

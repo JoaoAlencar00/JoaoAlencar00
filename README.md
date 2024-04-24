@@ -1,5 +1,12 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is João Alencar and my nickname is JoaoAlencar00!
+<p align="center">
+  <a href="https://github.com/JoaoAlencar00/">
+    <img src="./images/PC.png" width="160" height="160">
+  </a>
+</p>
+
+<h1 align="center">João Alencar 🧑🏻‍💻</h3>
+<p align="center">Software Developer @ university of systems analysis and development </p>
+
 
 - 🔭 I'm currently studying systems analysis and development at university.
 - 🌱 I’m currently learning programming at Alura and studying English.

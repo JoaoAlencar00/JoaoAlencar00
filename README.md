@@ -22,7 +22,7 @@
 </div>
 
 
-<h3 align="center"> Github Stats </h3>
+<h3 align="center"> Github Stats: </h3>
 <div align="center">
 <a href="https://github.com/JoaoAlencar00">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlencar00&layout=compact&langs_count=7&theme=dracula"/>

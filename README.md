@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/JoaoAlencar00/JoaoAlencar00">
-    <img src="./images/PC.png" width="160" height="160">
+    <img src="https://github.com/arthurspk/guiadobackend/raw/main/images/guia.png" width="160" height="160">
   </a>
 </p>
 

@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">João Alencar 🧑🏻‍💻</h3>
+<h1 align="center">João Alencar </h3>
 <p align="center">Software Developer @ university of systems analysis and development </p>
 
 <h3 align="center">Languages and Tools:</h3>

@@ -50,8 +50,8 @@
 
 ## 🚀 Projetos em Destaque
 
-- 🔗 [Portal de Doações](https://github.com/JoaoAlencar00/portal-doacoes) — Sistema web para facilitar doações a ONGs  
-- 🎬 [Catálogo de Filmes em Java](https://github.com/JoaoAlencar00/catalogo-filmes) — Projeto usando Spring Boot + JPA
+- 🔗 [Projeto Eniac nas Comunidades](https://eniac-projeto.vercel.app/) — Landing page para o site ENIAC  
+- 🎬 [Site Work](https://site-work.vercel.app/) — Projeto usando HTML, CSS e JS. desafio 7daysOfcode. 
 
 ---
 

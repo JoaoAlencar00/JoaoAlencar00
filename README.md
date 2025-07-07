@@ -17,7 +17,7 @@
 
 - 🔭 Atualmente estudando **Java, Spring Boot, Hibernate e MySQL**
 - 🌱 Também explorando **JavaScript, HTML, CSS e Node.js**
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
 - 👨‍💻 Buscando uma vaga como **desenvolvedor backend júnior**
 - 📫 Contato: Joaopalencar2000@gmail.com
 

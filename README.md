@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Olá! Eu sou o João Alencar 👋</h1>
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas | Focado em Backend com Java ☕</p>
+<p align="center">Graduado em Análise e Desenvolvimento de Sistemas | Focado em Backend com Java ☕</p>
 
 <p align="center">
   <a href="https://github.com/JoaoAlencar00">

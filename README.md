@@ -19,7 +19,7 @@
 - 🌱 Também explorando **JavaScript, HTML, CSS e Node.js**
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
 - 👨‍💻 Buscando uma vaga como **desenvolvedor backend júnior**
-- 📫 Contato: Joaopalencar2000@gmail.com
+- 📫 Contato: Joaoalencardev18@gmail.com
 
 ---
 

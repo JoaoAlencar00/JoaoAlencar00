@@ -70,9 +70,8 @@
 
 ## 🏆 Conquistas GitHub
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoAlencar00&theme=dracula&row=1&no-frame=true&margin-w=15" />
-</div>
+![Conquistas GitHub](https://github-profile-trophy.vercel.app/?username=JoaoAlencar00&theme=dracula&row=1&no-frame=true&margin-w=15)
+
 ---
 
 ## 🌐 Onde me encontrar

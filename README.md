@@ -1,94 +1,52 @@
-<p align="center">
-  <img src="https://github.com/arthurspk/guiadobackend/raw/main/images/guia.png" width="140" alt="Banner João Alencar">
-</p>
-
-<h1 align="center">Olá! Eu sou o João Alencar 👋</h1>
-<p align="center">Graduado em Análise e Desenvolvimento de Sistemas | Focado em Backend com Java ☕</p>
+<h1 align="center">João Alencar</h1>
 
 <p align="center">
-  <a href="https://github.com/JoaoAlencar00">
-    <img src="https://komarev.com/ghpvc/?username=JoaoAlencar00&label=Visualizações&color=blue&style=flat" alt="Visualizações do perfil"/>
-  </a>
+  <strong>Desenvolvimento Backend com Java · Em busca de uma oportunidade júnior</strong>
 </p>
-
----
-
-## 💼 Sobre Mim
-
-- 🔭 Atualmente estudando **Java, Spring Boot, Hibernate e MySQL**
-- 🌱 Também explorando **JavaScript, HTML, CSS e Node.js**
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
-- 👨‍💻 Buscando uma vaga como **desenvolvedor backend júnior**
-- 📫 Contato: Joaoalencardev18@gmail.com
-
----
-
-## 🧠 Tecnologias & Ferramentas
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="NodeJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"  width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ"/>
-</div>
-
----
-
-## 📌 Status Atual
-
-🧠 Estudando: Java | Spring Boot | JPA  
-🚀 Meta: Criar uma API REST com autenticação JWT  
-📘 Em breve: AWS | Docker  
-
----
-
-## 🚀 Projetos em Destaque
-
-- 🔗 [Projeto Eniac nas Comunidades](https://eniac-projeto.vercel.app/) — Landing page para o site ENIAC  
-- 🎬 [Site Work](https://site-work.vercel.app/) — Projeto usando HTML, CSS e JS. desafio 7daysOfcode. 
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JoaoAlencar00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlencar00&layout=compact&langs_count=7&theme=dracula" />
-</div>
-
----
-
-## 🌐 Onde me encontrar
-
-<div align="center">
-  <a href="https://instagram.com/jpx.code" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram" />
-  </a>
-  <a href="mailto:Joaopalencar2000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/joão-alencar-453362232/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.twitch.tv/JPXK_ZN13" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch" />
-  </a>
-</div>
-
----
-
-## 🐍 Snake - Contribuição Interativa
 
 <p align="center">
-  <img src="https://github.com/JoaoAlencar00/JoaoAlencar00/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="mailto:Joaoalencardev18@gmail.com">E-mail</a> ·
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-alencar-453362232/">LinkedIn</a>
 </p>
+
+## Sobre mim
+
+Sou graduado em **Análise e Desenvolvimento de Sistemas pela ENIAC** e estou direcionando minha carreira para o desenvolvimento backend com Java.
+
+Neste perfil, reúno projetos de estudo que mostram minha prática com orientação a objetos, lógica de programação e organização de código. Busco uma oportunidade como **desenvolvedor backend Java júnior** para aplicar esses fundamentos, aprender com o time e contribuir para a evolução de aplicações.
+
+## Conhecimentos e estudos
+
+| Área | Foco |
+| --- | --- |
+| **Java na prática** | Classes e interfaces, encapsulamento, herança, polimorfismo, coleções e tratamento de exceções em aplicações de console |
+| **Design de código** | Exercícios com Strategy, Singleton e criação de objetos |
+| **Ferramentas** | Git, GitHub e IntelliJ IDEA |
+| **Desenvolvimento web** | Projetos de estudo com JavaScript, Node.js, Express, SQLite, HTML e CSS |
+| **Em aprofundamento** | Spring Boot, JPA/Hibernate, SQL e MySQL, com foco em APIs REST |
+
+## Projetos em Java
+
+Os projetos abaixo são **aplicações e exercícios educacionais**. Cada README descreve o escopo implementado, a estrutura e como executar.
+
+| Projeto | O que demonstra |
+| --- | --- |
+| [Banco digital](https://github.com/JoaoAlencar00/Desafio-BancoDigital) | Modelagem de contas e clientes, interfaces, herança e operações bancárias simuladas em memória |
+| [Padrões de projeto em Java](https://github.com/JoaoAlencar00/ProjectPadroesSpring) | Strategy, Singleton e criação de pedidos em uma aplicação de console escrita em Java puro |
+| [Desafios Java](https://github.com/JoaoAlencar00/desafiosJava) | Exercícios de lógica e aplicações de console, incluindo controle de gastos e cadastro de produtos |
+| [Controle de fluxo](https://github.com/JoaoAlencar00/desafioControleDeFluxo) | Entrada de dados, repetição, validação e exceção personalizada |
+
+Também desenvolvi projetos de interface, como o [ENIAC nas Comunidades](https://github.com/JoaoAlencar00/Eniac_projeto), que complementam minha compreensão do desenvolvimento web.
+
+## Próximos passos
+
+- Aprofundar o desenvolvimento de APIs REST com Java e Spring Boot.
+- Praticar persistência com JPA/Hibernate e banco de dados relacional.
+- Incorporar testes automatizados e validação de dados aos próximos projetos.
+
+## Contato
+
+Para oportunidades e conversas sobre desenvolvimento:
+
+- **E-mail:** [Joaoalencardev18@gmail.com](mailto:Joaoalencardev18@gmail.com)
+- **LinkedIn:** [João Alencar](https://www.linkedin.com/in/jo%C3%A3o-alencar-453362232/)
